@@ -35,3 +35,20 @@ Skills:
 ● Exploratory Data Analysis (EDA)
 ● Binary classification using machine learning
 ● Model evaluation using confusion matrix and accuracy
+
+
+Task 3: Customer Churn Prediction (Bank Customers)
+Objective:
+Identify customers who are likely to leave the bank.
+Dataset:
+Churn Modelling Dataset
+Instructions:
+● Clean and prepare the dataset.
+● Encode categorical features such as geography and gender.
+● Train a classification model.
+● Analyze feature importance to understand what influences churn.
+
+Skills:
+● Categorical data encoding (Label Encoding / One-Hot Encoding)
+● Supervised classification modeling
+● Understanding and interpreting feature importance
