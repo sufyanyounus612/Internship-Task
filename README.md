@@ -52,3 +52,18 @@ Skills:
 ● Categorical data encoding (Label Encoding / One-Hot Encoding)
 ● Supervised classification modeling
 ● Understanding and interpreting feature importance
+
+
+Task 4: Predicting Insurance Claim Amounts 
+Objective: 
+ Estimate the medical insurance claim amount based on personal data. 
+Dataset: 
+ Medical Cost Personal Dataset 
+Instructions: 
+● Train a Linear Regression model to predict charges. 
+● Visualize how BMI, age, and smoking status impact insurance charges. 
+● Evaluate model performance using MAE and RMSE. 
+Skills: 
+● Regression modeling 
+● Feature correlation and visualization 
+● Error evaluation using MAE and RMSE
